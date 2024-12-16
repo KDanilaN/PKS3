@@ -1,6 +1,6 @@
 class Microphone {
   final String name;
-  final String image;
+  final String image; // Путь к локальному изображению
   final String info;
   final double price;
   final String frequencyResponse;
